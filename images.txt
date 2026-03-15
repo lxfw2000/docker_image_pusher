@@ -5,7 +5,7 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-seatable/seatable-developer:6.1
+seatable/seatable-developer
 triliumnext/trilium
 poxenstudio/talebook
 0nlylty/dockercopilot
